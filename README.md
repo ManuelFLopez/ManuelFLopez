@@ -9,7 +9,7 @@ Soy estudiante de **Desarrollo de aplicaciones web** apasionado/a por la tecnolo
 - 🔭 Actualmente trabajando en: **Desarrollo de aplicaciones web**
 - 🌱 Aprendiendo: **Java, HTML, CSS, SQL**
 - 👯 Buscando colaborar en: **Proyectos educativos y open source**
-- 💬 Pregúntame sobre: **Páginas web, bases de datos y contenedor**
+- 💬 Pregúntame sobre: **Páginas web, bases de datos y contenedores**
 - 📫 Cómo contactarme: **manuuelfraanlopez@gmail.com**
 - ⚡ Dato curioso: **Se me da bien trabajar en equipo**
 
